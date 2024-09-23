@@ -23,3 +23,5 @@ print(max_of_two(27, 8))
 describe_person("Sanjarbek", 18)
 
 print(is_prime(21354579137))
+
+is_prime(5)
